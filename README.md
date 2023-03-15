@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @johnvt
 - 👀 I’m interested in Laravel
-- 🌱 I’m currently learning Livewire
-- 💞️ I’m looking to collaborate on an online boardgame website (something like boardgamearena.com)
+- 🌱 I’m currently learning Livewire, Filament and Tailwind (TALL stack)
 - 📫 Contact me at bereikme@gmail.com
 
 <!---
